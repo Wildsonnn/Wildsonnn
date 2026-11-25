@@ -6,7 +6,7 @@ com idempotência, filas, cache, observabilidade e infraestrutura como código.
 **Stack principal:** TypeScript · NestJS · React / React Native · Python (Django, FastAPI) · Go ·
 PostgreSQL · Redis · Docker · Kubernetes · Terraform · GitHub Actions · Prometheus / Grafana
 
-## 🗺️ Roadmap 2027 — um projecto de portfólio por mês
+## 🗺️ Roadmap 2027 um projecto de portfólio por mês
 
 | Projecto | O que resolve | Stack | Estado |
 |---|---|---|---|
