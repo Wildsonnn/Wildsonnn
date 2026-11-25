@@ -34,4 +34,4 @@ e uma release `v1.0.0`.
 ## 🤝 Open source
 
 Em 2027 quero contribuir regularmente para os projectos que uso (NestJS, FastAPI, ArgoCD,
-ecossistema Go) e participar no Hacktoberfest com a comunidade MozDevz.
+ecossistema Go).
